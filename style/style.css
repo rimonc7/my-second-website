@@ -1,3 +1,13 @@
 h2{
     color:tomato;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: none;
+    text-align: center;
+    font-weight: normal;
+}
+.rimon{
+    background-color: black;
+    height: 300px;
+    width: 600px;
+    margin: 30px auto 20px auto;
 }
